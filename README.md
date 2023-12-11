@@ -1,13 +1,13 @@
-## Привет, я Тина ✨
+## Привет, я Тина ⭐
 
 Я начинающий разработчик &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height=15px width="15px"> <br> 
 Стремлюсь к самосовершенствованию в сфере информационных технологий. Я студентка Высшего Колледжа Информатики Новосибирского Государственного Университета.
 Сейчас пишу диплом по нейросетям и активно обучаюсь в Школе 21, преодолевая технические вызовы и разрабатывая инновационные проекты. 
-C гордостью объявляю, что могу написать <br> Нelloy world! даже с закрытими глазми. Let's code the future together! 💻
+C гордостью объявляю, что могу написать <br> Нelloy world! даже с закрытими глазми. Let's code the future together! 🚀
 
 - 🎓 Высший колледж информатики (2020 - настоящее время)
 
-- 🚀 Школа 21 (2022 - настоящее время)
+- 💻 Школа 21 (2022 - настоящее время)
 
 - 🔍 Хочу освоить профессию и найти работу
 
@@ -17,10 +17,10 @@ C гордостью объявляю, что могу написать <br> Нe
 
 ## Языки и инструменты
 
-<table>
+<table border-collapse = collapse>
     <tr>
         <td>
-            ### Backend  
+            <h2>Backend</h2>  
             <div align="left">  
             <a href="https://www.cplusplus.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>&nbsp;  
             <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>&nbsp;  
@@ -30,47 +30,50 @@ C гордостью объявляю, что могу написать <br> Нe
             </div>
         </td>
         <td>
-            ### AI/ML  
-            <div align="left">  
-            <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>&nbsp;  
-            <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>&nbsp; 
-            <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>&nbsp;  
-            </div>  
-        </td>
-        </td>
-            #### Database  
+            Database  
             <div align="left">  
             <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>&nbsp;  
             <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>&nbsp;  
             </div> 
         </td>
     </tr>
+    <tr>
+        <td>
+            AI/ML  
+            <div align="left">  
+            <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>&nbsp;  
+            <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>&nbsp; 
+            <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>&nbsp;  
+            </div>  
+        </td>
+        <td>
+            DevOps  
+            <div align="left">  
+            <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>&nbsp;  
+            <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>&nbsp;  
+            <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> &nbsp; 
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mobail  
+            <div align="left">  
+            <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>&nbsp;  
+            <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>&nbsp; 
+            <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>&nbsp;  
+            </div>
+        </td>
+        <td>
+            Frontend  
+            <div align="left">  
+            <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>&nbsp;  
+            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>&nbsp;  
+            <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> &nbsp; 
+            </div>  
+        </td>
+    </tr>
 </table>
- 
-
-
-### Mobail  
-<div align="left">  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>&nbsp;  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>&nbsp; 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>&nbsp;  
-</div>
-
-
-### DevOps  
-<div align="left">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>&nbsp;  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>&nbsp;  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> &nbsp; 
-</div>
-
-### Frontend  
-<div align="left">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>&nbsp;  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>&nbsp;  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> &nbsp; 
-</div>  
-
 
 ## GitHub статистика:
 
@@ -87,4 +90,4 @@ C гордостью объявляю, что могу написать <br> Нe
 
 ## Количество посещений
 
-<img align="right" src="https://profile-counter.glitch.me/TinaVor/count.svg"/>
+<img align="left" src="https://profile-counter.glitch.me/TinaVor/count.svg"/>
