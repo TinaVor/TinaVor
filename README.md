@@ -1,6 +1,6 @@
-# >Привет, я Тина! <img src="https://media.giphy.com/media/IzL0gtAuERKuESGN1t/giphy.gif" width="50px">
+## >Привет, я Тина! ⭐
 
-Я начинающий разработчик &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height= 20px width="25px"> <br> 
+Я начинающий разработчик &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height=15px width="15px"> <br> 
 Стремлюсь к самосовершенствованию в сфере информационных технологий. Я студентка <b>Высшего Колледжа Информатики Новосибирского Государственного Университета.</b>
 Сейчас пишу диплом по нейросетям и активно обучаюсь в <b>Школе 21</b>, преодолевая технические вызовы и разрабатывая инновационные проекты. 
 C гордостью объявляю, что могу написать <br> <b>Нelloy world!</b> даже с закрытими глазми. Let's code the future together! 🚀
@@ -30,7 +30,7 @@ C гордостью объявляю, что могу написать <br> <b>
             </div>
         </td>
         <td>
-            Database  
+            <p align="center">Database  
             <div align="left">  
             <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>&nbsp;  
             <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>&nbsp;  
@@ -39,7 +39,7 @@ C гордостью объявляю, что могу написать <br> <b>
     </tr>
     <tr>
         <td>
-            AI/ML  
+             <p align="center">AI/ML  
             <div align="left">  
             <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>&nbsp;  
             <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>&nbsp; 
@@ -47,7 +47,7 @@ C гордостью объявляю, что могу написать <br> <b>
             </div>  
         </td>
         <td>
-            DevOps  
+             <p align="center">DevOps  
             <div align="left">  
             <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>&nbsp;  
             <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>&nbsp;  
@@ -57,7 +57,7 @@ C гордостью объявляю, что могу написать <br> <b>
     </tr>
     <tr>
         <td>
-            Mobail  
+            <p align="center">Mobile 
             <div align="left">  
             <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>&nbsp;  
             <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>&nbsp; 
@@ -65,7 +65,7 @@ C гордостью объявляю, что могу написать <br> <b>
             </div>
         </td>
         <td>
-            Frontend  
+            <p align="center">Frontend  
             <div align="left">  
             <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>&nbsp;  
             <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>&nbsp;  
