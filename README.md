@@ -1,9 +1,9 @@
-## Привет, я Тина ⭐
+# >Привет, я Тина! <img src="https://media.giphy.com/media/IzL0gtAuERKuESGN1t/giphy.gif" width="50px">
 
-Я начинающий разработчик &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height=15px width="15px"> <br> 
-Стремлюсь к самосовершенствованию в сфере информационных технологий. Я студентка Высшего Колледжа Информатики Новосибирского Государственного Университета.
-Сейчас пишу диплом по нейросетям и активно обучаюсь в Школе 21, преодолевая технические вызовы и разрабатывая инновационные проекты. 
-C гордостью объявляю, что могу написать <br> Нelloy world! даже с закрытими глазми. Let's code the future together! 🚀
+Я начинающий разработчик &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height= 20px width="25px"> <br> 
+Стремлюсь к самосовершенствованию в сфере информационных технологий. Я студентка <b>Высшего Колледжа Информатики Новосибирского Государственного Университета.</b>
+Сейчас пишу диплом по нейросетям и активно обучаюсь в <b>Школе 21</b>, преодолевая технические вызовы и разрабатывая инновационные проекты. 
+C гордостью объявляю, что могу написать <br> <b>Нelloy world!</b> даже с закрытими глазми. Let's code the future together! 🚀
 
 - 🎓 Высший колледж информатики (2020 - настоящее время)
 
@@ -17,12 +17,12 @@ C гордостью объявляю, что могу написать <br> Нe
 
 ## Языки и инструменты
 
-<table border-collapse = collapse>
+<table align="center">
     <tr>
         <td>
-            <h2>Backend</h2>  
+            <p align="center">Backend  
             <div align="left">  
-            <a href="https://www.cplusplus.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>&nbsp;  
+            <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>&nbsp;  
             <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>&nbsp;  
             <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>&nbsp;  
             <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>&nbsp;  
@@ -77,13 +77,13 @@ C гордостью объявляю, что могу написать <br> Нe
 
 ## GitHub статистика:
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=TinaVor&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark"" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TinaVor&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TinaVor&layout=compact&hide_border=true&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
