@@ -1,6 +1,6 @@
 ## Привет, я Тина ✨
 
-Я начинающий разработчик &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height=15px width="15px">. <br> 
+Я начинающий разработчик &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height=15px width="15px"> <br> 
 Стремлюсь к самосовершенствованию в сфере информационных технологий. Я студентка Высшего Колледжа Информатики Новосибирского Государственного Университета.
 Сейчас пишу диплом по нейросетям и активно обучаюсь в Школе 21, преодолевая технические вызовы и разрабатывая инновационные проекты. 
 C гордостью объявляю, что могу написать <br> Нelloy world! даже с закрытими глазми. Let's code the future together! 💻
@@ -14,31 +14,39 @@ C гордостью объявляю, что могу написать <br> Нe
 - 📫 Как связаться со мной: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-tina_vor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tina_vor) &nbsp; or &nbsp;
 [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tina_vor@mail.ru)
 
----
 
 ## Языки и инструменты
 
-### Backend  
-<div align="left">  
-<a href="https://www.cplusplus.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>&nbsp;  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>&nbsp;  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>&nbsp;  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>&nbsp;  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a> &nbsp; 
-</div>
-
-### AI/ML  
-<div align="left">  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>&nbsp;  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>&nbsp; 
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>&nbsp;  
-</div>  
-
-#### Database  
-<div align="left">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>&nbsp;  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>&nbsp;  
-</div>  
+<table>
+    <tr>
+        <td>
+            ### Backend  
+            <div align="left">  
+            <a href="https://www.cplusplus.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>&nbsp;  
+            <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>&nbsp;  
+            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>&nbsp;  
+            <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>&nbsp;  
+            <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a> &nbsp; 
+            </div>
+        </td>
+        <td>
+            ### AI/ML  
+            <div align="left">  
+            <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>&nbsp;  
+            <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>&nbsp; 
+            <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>&nbsp;  
+            </div>  
+        </td>
+        </td>
+            #### Database  
+            <div align="left">  
+            <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>&nbsp;  
+            <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>&nbsp;  
+            </div> 
+        </td>
+    </tr>
+</table>
+ 
 
 
 ### Mobail  
@@ -63,9 +71,8 @@ C гордостью объявляю, что могу написать <br> Нe
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> &nbsp; 
 </div>  
 
----
 
-# GitHub статистика:
+## GitHub статистика:
 
 <table>
   <tr>
@@ -78,6 +85,6 @@ C гордостью объявляю, что могу написать <br> Нe
   </tr>
 </table>
 
-### Количество посещений
+## Количество посещений
 
 <img align="right" src="https://profile-counter.glitch.me/TinaVor/count.svg"/>
