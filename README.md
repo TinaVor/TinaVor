@@ -1,4 +1,4 @@
-## Привет, я Тина! ⭐
+### Привет, я Тина! ⭐
 
 ---
 
@@ -7,7 +7,7 @@
 Сейчас пишу диплом по нейросетям и активно обучаюсь в <b>Школе 21</b>, преодолевая технические вызовы и разрабатывая инновационные проекты. 
 C гордостью объявляю, что могу написать <br> <b>Нelloy world!</b> даже с закрытими глазми. Let's code the future together! 🚀
 
-<img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif">
 
 
 - 🎓 Высший колледж информатики (2020 - настоящее время)
@@ -56,7 +56,7 @@ C гордостью объявляю, что могу написать <br> <b>
              <p align="center">DevOps  
             <div align="center">  
             <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>&nbsp;  
-            <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="image/bush.JPG"  alt="Bash" height="50" /></a>&nbsp;
+            <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="image/bush.png"  alt="Bash" height="50" /></a>&nbsp;
             <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> &nbsp; 
             </div>
         </td>
