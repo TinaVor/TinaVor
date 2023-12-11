@@ -1,7 +1,6 @@
 ### Привет, я Тина ✨
-
-<!--
-**TinaVor/TinaVor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="150" height="150" alt="Dani Akash" src="image/person.jpg"/>
+<
 
 Here are some ideas to get you started:
 
