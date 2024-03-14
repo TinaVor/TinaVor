@@ -13,6 +13,8 @@
 - 💻 Школа 21 (2022 - 2024)
 
 - 🔍 Хочу освоить профессию и найти работу
+  
+- ⚔️ В свободное время вожу DnD
 
 - 📫 Как связаться со мной: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-tina_vor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tina_vor) &nbsp; or &nbsp;
 [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tina_vor@mail.ru)
