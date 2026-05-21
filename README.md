@@ -94,4 +94,4 @@
 </table>
 
 ### Количество посещений
-![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTinaVor&
+![Visitors](https://komarev.com/ghpvc/?username=TinaVor&label=Profile%20views&color=0e75b6&style=flat)
