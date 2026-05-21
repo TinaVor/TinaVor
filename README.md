@@ -94,5 +94,4 @@
 </table>
 
 ### Количество посещений
-
-<img align="left" src="https://profile-counter.glitch.me/TinaVor/count.svg"/>
+![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTinaVor&
