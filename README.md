@@ -2,7 +2,8 @@
 
 ---
 
-Я начинающий разработчик, что хочет перейти в продакты. &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height=15px width="15px"> <br> 
+Я проджект, что любит программирование
+. &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height=15px width="15px"> <br> 
 <br>C гордостью объявляю, что могу написать <b>Нelloy world!</b> даже с закрытыми глазами. Let's code the future together! 🚀
 
 
