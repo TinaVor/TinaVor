@@ -83,10 +83,6 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=TinaVor&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" alt="webDev's Github stats" />
-    </td>
-    <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TinaVor&layout=compact&hide_border=true&theme=vision-friendly-dark" />
     </td>
   </tr>
