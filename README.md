@@ -79,7 +79,6 @@
 </table>
 
 ---
-
 ### GitHub статистика:
 
 <table align="center">
